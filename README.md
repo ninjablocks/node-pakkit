@@ -1,6 +1,6 @@
 node-pakkit
 -----------
 
-Allows you to define packet definitions that can be used to read and write objects to/from buffers.
+Node.JS module to read/write objects to/from buffers using concise packet definitions.
 
 (Coming Soon! - Cleanup and open-sourcing in progress)
