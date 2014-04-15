@@ -1,0 +1,28 @@
+{
+  "name": "pakkit",
+  "version": "0.0.0",
+  "description": "Node.JS module to read/write objects to/from buffers using concise packet definitions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ninjablocks/node-pakkit.git"
+  },
+  "keywords": [
+    "packet",
+    "buffer"
+  ],
+  "author": "Ninja Blocks <help@ninjablocks.com> (http://www.ninjablocks.com)",
+  "contributors": [
+    "Elliot Shepherd <elliot@ninjablocks.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ninjablocks/node-pakkit/issues"
+  },
+  "homepage": "https://github.com/ninjablocks/node-pakkit",
+  "dependencies": {
+  }
+}
