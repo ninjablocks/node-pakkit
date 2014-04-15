@@ -1,6 +1,6 @@
 {
   "name": "pakkit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Node.JS module to read/write objects to/from buffers using concise packet definitions.",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,9 @@
   },
   "homepage": "https://github.com/ninjablocks/node-pakkit",
   "dependencies": {
+    "underscore": "^1.6.0",
+    "dissolve": "^0.3.3",
+    "concentrate": "^0.2.2",
+    "debug": "^0.8.0"
   }
 }
