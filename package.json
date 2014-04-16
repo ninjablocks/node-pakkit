@@ -4,7 +4,7 @@
   "description": "Node.JS module to read/write objects to/from buffers using concise packet definitions.",
   "main": "index.js",
   "scripts": {
-    "test": "test.js"
+    "test": "node tests/enumeration-order.js"
   },
   "repository": {
     "type": "git",
